@@ -1,2 +1,2 @@
 ### KenyataGomo - Security Researcher.
-- InfoSec / OffSec / DefSec / WebDev
+- InfoSec / OffSec / DefSec / DevOps
